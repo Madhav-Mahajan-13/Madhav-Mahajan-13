@@ -2,7 +2,11 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on RIya(A intelligent personal Bot )<br>👯 I’m looking to collaborate on REAL LIFE PROBLEM SOLVING <br>🌱 I’m currently learning CI/CD and ML <br>💬 Ask me anything <br>⚡ Fun fact - DONOT CLICK MY PICS
+🔭 Currently building Riya – an intelligent personal assistant bot with real-life applications<br>
+👯 Open to collaborating on projects that tackle real-world problems<br>
+🌱 Learning and exploring CI/CD pipelines and Machine Learning<br>
+💬 Always happy to talk about AI, automation, and problem-solving ideas<br>
+⚡ Fun fact: Never click my pictures—you’ve been warned 😅<br>
 
 
 ## 🌐 Socials:
